@@ -34,4 +34,5 @@ Checked 2 servers total for OpenSSL and CVE-2014-0160
 
 <!---
 #CPTAGS:community-unsupported audit
+#TBICON:images/ruby_icon.png
 -->
